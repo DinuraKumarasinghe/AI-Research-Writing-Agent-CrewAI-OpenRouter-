@@ -1,7 +1,3 @@
-Here’s a **professional GitHub README** for your AI Agent project with interface:
-
----
-
 # AI Research & Writing Agent
 
 An **AI-powered multi-agent system** that researches a topic and generates a clear, engaging blog post. Built with **CrewAI**, **OpenRouter**, and **Gradio** for an interactive web interface.
